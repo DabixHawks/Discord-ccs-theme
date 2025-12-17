@@ -1,3 +1,9 @@
+/**
+ * @name Hellva boss theme
+ * @author DabixHawks
+ * @description First ever theme idk if it will work or not;/
+ * @version 0.0.1
+ */
 :root {
   --bg-overlay: rgba(10, 5, 20, 0.85);
   --bg-secondary: #160b2e;
